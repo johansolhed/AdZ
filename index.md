@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home page of AdZ App
 layout: home
 ---
 

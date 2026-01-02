@@ -16,5 +16,9 @@ Eventual support requests and/or ideas can be sent to [me](mailto:johan.solhed@g
 Disclaimer
 ----------
 The AdZ app is created by [me](mailto:johan.solhed@gmail.com), an app developer and Zwift rider. It is not, in any way, affiliated with Zwift Inc. Goal is to help Zwift riders race the alp faster without having to write down segement times on paper that will be blown away by the fan...
- 
+
+App Privacy Policy
+-----
+The App does not collect any personal data.
+
 [Main]: {{ "assets/images/MainScreen.png" | relative_url }}

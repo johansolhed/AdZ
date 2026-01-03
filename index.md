@@ -8,6 +8,7 @@ AdZ - How to climb the Alp faster!
 ========
 
 The app provides all necessay instructions.
+Segments will be coloured red/green depending on if you have met the time target or not.
 
 ![Main]{:width="40%"}
 

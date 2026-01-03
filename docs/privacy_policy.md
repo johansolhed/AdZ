@@ -23,6 +23,5 @@ We believe in full transparency. If you contact us directly (e.g., via a contact
 5. Changes to This Policy
 This policy may be updated, but we will always maintain our commitment to not collecting your data.
 
-Contact Us
-If you have any questions about this policy, please contact [us](mailto:johan.solhed@gmail.com).
+Contact [us](mailto:johan.solhed@gmail.com) If you have any questions about this policy.
 
